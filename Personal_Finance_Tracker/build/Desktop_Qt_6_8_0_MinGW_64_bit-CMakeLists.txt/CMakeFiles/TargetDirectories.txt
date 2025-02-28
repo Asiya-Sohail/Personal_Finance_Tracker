@@ -1,0 +1,9 @@
+C:/Users/Tesla Laptops/OneDrive/Desktop/Personal_Finance_Tracker/build/Desktop_Qt_6_8_0_MinGW_64_bit-CMakeLists.txt/CMakeFiles/Personal_Finance_Tracker.dir
+C:/Users/Tesla Laptops/OneDrive/Desktop/Personal_Finance_Tracker/build/Desktop_Qt_6_8_0_MinGW_64_bit-CMakeLists.txt/CMakeFiles/edit_cache.dir
+C:/Users/Tesla Laptops/OneDrive/Desktop/Personal_Finance_Tracker/build/Desktop_Qt_6_8_0_MinGW_64_bit-CMakeLists.txt/CMakeFiles/rebuild_cache.dir
+C:/Users/Tesla Laptops/OneDrive/Desktop/Personal_Finance_Tracker/build/Desktop_Qt_6_8_0_MinGW_64_bit-CMakeLists.txt/CMakeFiles/list_install_components.dir
+C:/Users/Tesla Laptops/OneDrive/Desktop/Personal_Finance_Tracker/build/Desktop_Qt_6_8_0_MinGW_64_bit-CMakeLists.txt/CMakeFiles/install.dir
+C:/Users/Tesla Laptops/OneDrive/Desktop/Personal_Finance_Tracker/build/Desktop_Qt_6_8_0_MinGW_64_bit-CMakeLists.txt/CMakeFiles/install/local.dir
+C:/Users/Tesla Laptops/OneDrive/Desktop/Personal_Finance_Tracker/build/Desktop_Qt_6_8_0_MinGW_64_bit-CMakeLists.txt/CMakeFiles/install/strip.dir
+C:/Users/Tesla Laptops/OneDrive/Desktop/Personal_Finance_Tracker/build/Desktop_Qt_6_8_0_MinGW_64_bit-CMakeLists.txt/CMakeFiles/Personal_Finance_Tracker_autogen_timestamp_deps.dir
+C:/Users/Tesla Laptops/OneDrive/Desktop/Personal_Finance_Tracker/build/Desktop_Qt_6_8_0_MinGW_64_bit-CMakeLists.txt/CMakeFiles/Personal_Finance_Tracker_autogen.dir
